@@ -3,7 +3,7 @@
 A beginner-friendly cybersecurity learning repository to organize notes, labs, write-ups, study plans, and resources.
 
 ## Purpose
-This repository is designed to help you:
+This repository is designed to help me:
 - learn core cybersecurity concepts in a structured way
 - track your progress over time
 - practice with labs and CTF-style challenges
